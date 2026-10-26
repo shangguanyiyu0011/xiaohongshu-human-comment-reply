@@ -1,0 +1,3 @@
+interface:
+  display_name: "小红书真人化评论回复"
+  short_description: "筛选评论，生成自然回复，并在授权后自动发送"

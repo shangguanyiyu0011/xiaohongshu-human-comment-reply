@@ -1,0 +1,29 @@
+[
+  {
+    "comment_id": "demo-001",
+    "comment_text": "这段步道适合慢慢走吗？",
+    "note_context": "虚构演示笔记：公园步道介绍，提醒留意当日开放公告与天气。",
+    "existing_author_reply": false,
+    "action": "reply",
+    "reply": "可以慢慢逛，出发前记得看一下当天的开放公告～",
+    "reason": "虚构演示：根据笔记上下文回答具体问题。"
+  },
+  {
+    "comment_id": "demo-002",
+    "comment_text": "已经收藏啦。",
+    "note_context": "虚构演示：该评论线程已经有作者回复。",
+    "existing_author_reply": true,
+    "action": "skip",
+    "reply": "",
+    "reason": "虚构演示：作者已经回复，避免重复。"
+  },
+  {
+    "comment_id": "demo-003",
+    "comment_text": "可以谈一下商业合作吗？",
+    "note_context": "虚构演示：商业合作询问。",
+    "existing_author_reply": false,
+    "action": "manual_review",
+    "reply": "",
+    "reason": "虚构演示：合作事项由账号所有者审核。"
+  }
+]
